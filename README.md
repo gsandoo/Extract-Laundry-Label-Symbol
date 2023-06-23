@@ -4,8 +4,8 @@ OpenCV를 활용한 세탁 라벨 기호 인식 프로젝트
 
 
 ## TEAM MEMBER
-|이름|학과|역할|
-|----|---|---|
+|이름|학과|
+|----|---|
 |[강산아]|스포츠문화학|
 |[김나원]|컴퓨터공학|
 |[오수현]|컴퓨터공학|
@@ -29,7 +29,7 @@ OpenCV를 활용한 세탁 라벨 기호 인식 프로젝트
 
 
 
-## <div><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Extract-Laundry-Label-Symbol&fontSize=90" /></div>
+## <div><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Extract-Laundry-Label-Symbol&fontSize=30" /></div>
 
 
 ## 1. 프로젝트 주제
