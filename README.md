@@ -1,3 +1,4 @@
+# Extract-Laundry-Label-Symbol
 OpenCV를 활용한 세탁 라벨 기호 인식 프로젝트 
 
 
@@ -15,7 +16,7 @@ OpenCV를 활용한 세탁 라벨 기호 인식 프로젝트
 
 ## Demo 영상
 <div>
-   ![project demo_laundry label](https://github.com/gsandoo/Extract-Laundry-Label-Symbol/assets/98865571/0e104951-115a-450d-8229-1730e6b2b331)# Extract-Laundry-Label-Symbol
+   ![project demo_laundry label](https://github.com/gsandoo/Extract-Laundry-Label-Symbol/assets/98865571/0e104951-115a-450d-8229-1730e6b2b331)
 </div>
 
 
