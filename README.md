@@ -1,6 +1,6 @@
 # Extract-Laundry-Label-Symbol
-OpenCV를 활용한 세탁 라벨 기호 인식 프로젝트 
-
+> 의류 케어라벨 판독 시스템 <br>
+개발기간 : 2023.05 - 2023.06
 
 
 ## TEAM MEMBER
